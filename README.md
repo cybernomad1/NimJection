@@ -1,7 +1,7 @@
 # NimJection
-My experiments with Nim for covenant implant operations. Highly recommend looking at Marcello Salvati’s https://github.com/byt3bl33d3r repo which i used massively for this project.
+My experiments with Nim for covenant implant operations. Highly recommend looking at Marcello Salvati’s https://github.com/byt3bl33d3r repo which I used massively for this project.
 
-Highly recomend 
+
 ## PrepPayload
 Used for grabbing b64 shellcode, either from a file or URL, converting it to correct format and encrypting using specified encryption key. Creates encrypt.txt file containing encrypted shellcode for use with NimJection.
 
